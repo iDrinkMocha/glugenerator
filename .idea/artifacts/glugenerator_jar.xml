@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="glugenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/glugenerator_jar</output-path>
+    <root id="archive" name="glugenerator.jar">
+      <element id="module-output" name="glugenerator" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+.slider .thumb {
+    -fx-background-image :url("/Users/mocha/IdeaProjects/glugenerator/out.png");
+    -fx-background-repeat: no-repeat;
+    -fx-pref-width: 5;
+    -fx-pref-height: 20;
+}
+
